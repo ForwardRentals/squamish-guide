@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://squamishguide.com/sitemap.xml
